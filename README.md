@@ -16,7 +16,7 @@ Electronic-medical-records-byExcel/顧客一覧.xlsm
 
 ## Demo
 
-![](wiki/images/Electronic-medical-records.gif)
+![electronic-medical-records](https://user-images.githubusercontent.com/8434586/34650828-8dd01ab8-f40a-11e7-9048-008f86705aa8.gif)
 
 ## VS. 
 
